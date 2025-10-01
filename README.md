@@ -13,32 +13,23 @@ This project focuses on analyzing and forecasting time series data for the perio
 **XGBoost (Extreme Gradient Boosting)**: A robust ensemble learning method that captures non-linear relationships effectively.
 
 **LSTM (Long Short-Term Memory**): A deep learning architecture designed to capture long-term dependencies within sequential data.
-This project focuses on analyzing and forecasting time series data for the period January to March using a combination of traditional statistical models, machine learning algorithms, and deep learning approaches. The objective is to compare the performance of different techniques and determine the most accurate and efficient model for forecasting tasks.
-
-# **Models Implemented**
-* ARIMA (AutoRegressive Integrated Moving Average): A statistical model widely used for univariate time series forecasting.
-
-* SARIMA (Seasonal AutoRegressive Integrated Moving Average): An extension of ARIMA that incorporates seasonality, making it highly suitable for periodic datasets.
-
-* XGBoost (Extreme Gradient Boosting): A robust ensemble learning method that captures non-linear relationships effectively.
-
-* LSTM (Long Short-Term Memory): A deep learning architecture designed to capture long-term dependencies within sequential data.
 
 # **Why These Models?**
-* ARIMA & SARIMA were chosen for their ability to capture trends and seasonality in classical time series tasks.
 
-* XGBoost was included due to its strength in handling complex non-linear interactions.
+* **ARIMA & SARIMA** were chosen for their ability to capture trends and seasonality in classical time series tasks.
 
-* LSTM was implemented to leverage deep learning's capabilities in learning temporal dependencies over long sequences.
+* **XGBoost** was included due to its strength in handling complex non-linear interactions.
+
+* **LSTM** was implemented to leverage deep learning's capabilities in learning temporal dependencies over long sequences.
 
 # **Model Evaluation**
 The performance of each model was assessed using multiple evaluation metrics:
 
-* Mean Absolute Error (MAE)
+* **Mean Absolute Error (MAE)**
 
-* Root Mean Squared Error (RMSE)
+* **Root Mean Squared Error (RMSE)**
 
-* Mean Absolute Percentage Error (MAPE)
+* **Mean Absolute Percentage Error (MAPE)**
 
 This comparison allowed us to balance accuracy with computational efficiency and identify the best-performing approach for the dataset.
 
