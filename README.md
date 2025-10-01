@@ -2,7 +2,7 @@
 
 # **Project Overview**
 
-This project focuses on analyzing and forecasting time series data for the period January to March using a combination of traditional statistical models, machine learning algorithms, and deep learning approaches. The objective is to compare the performance of different techniques and determine the most accurate and efficient model for forecasting tasks.
+This project explores the Corporación Favorita time series data, focusing particularly on transactions from the Guayas region. The core objective is to analyze and forecast time series data for the period January to March using a combination of traditional statistical models, machine learning algorithms, and deep learning approaches. By comparing multiple forecasting techniques, the project aims to identify the most accurate and efficient model for forecasting tasks, supporting real-world decision-making for inventory and sales management in Ecuador’s retail sector.
 
 # **Models Implemented**
 
