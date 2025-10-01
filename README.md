@@ -34,7 +34,7 @@ The performance of each model was assessed using multiple evaluation metrics:
 This comparison allowed us to balance accuracy with computational efficiency and identify the best-performing approach for the dataset.
 
 
-**Key Findings**
+# **Key Findings**
 
 * Traditional models like **ARIMA/SARIMA** are reliable for trend and seasonality.
 
