@@ -4,6 +4,7 @@
 
 This project explores the Corporación Favorita time series data, focusing particularly on transactions from the Guayas region. The core objective is to analyze and forecast time series data for the period January to March using a combination of traditional statistical models, machine learning algorithms, and deep learning approaches. By comparing multiple forecasting techniques, the project aims to identify the most accurate and efficient model for forecasting tasks, supporting real-world decision-making for inventory and sales management in Ecuador’s retail sector.
 
+**Dataset**: Kaggle’s Corporación Favorita dataset (~3.39M rows, 41 features), can be found [here](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 # **Models Implemented**
 
 **ARIMA (AutoRegressive Integrated Moving Average)**: A statistical model widely used for univariate time series forecasting.
