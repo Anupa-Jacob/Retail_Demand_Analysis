@@ -53,9 +53,3 @@ This comparison allowed us to balance accuracy with computational efficiency and
 
 * Expanding the dataset to cover longer time horizons for more robust forecasting.
 
-# **Tech Stack**
-**Languages**: Python
-
-**Frameworks & Libraries**: Statsmodels, XGBoost, TensorFlow/Keras, Streamlit
-
-**Environment**: Jupyter Notebook for development and analysis
